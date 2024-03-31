@@ -72,6 +72,7 @@ git push
 ##### `git commit`
 然后`git commit` 则是创建一个提交，上传的提交，就是它不是提交这个事情，就是“我要上传了啊！”的意思，然后`-m "提交信息"`中的 `-m` 的意思是我后面跟着的东西你就当做提交信息处理了，后面的字符串你可以写入这次提交代码，更改了哪些内容。这样提交的时候这个信息就会伴随着提交上去，别人看到你写的内容就可以清楚的知道你提交的代码是干什么的。
 同时这个提交信息其实是有一定的书写规范的，但是咱们一开始嘛，别人能看得懂就行。
+
 ##### `git push`
 真正的上传其实是他
 
@@ -182,8 +183,15 @@ ok，现在这个仓库是我们自己的了，我们想怎么改怎么改，反
 ![image.png](https://starain-1252568110.cos.ap-beijing.myqcloud.com/blog/20240331193008.png)
 文件成功的出现了。
 
-
 当然我这里可能有点抽象，因为我自己就是这个仓库的原作者。但是你们不一样，你们现在是没有这个仓库的权限的，所以你们可以在你们那边向我现在这个仓库提交pr，我来给你们通过，大家都来报个到！
+
+[01Plant-Cainiao-Station/HelloGithub: 你好呀！](https://github.com/01Plant-Cainiao-Station/HelloGithub)
+
+![image-20240331194501938](https://starain-1252568110.cos.ap-beijing.myqcloud.com/blog/image-20240331194501938.png)
+
+在此文件夹下，写一个名字为 自己的 id 的文件，然后提交pr
+
+![image-20240331194534634](https://starain-1252568110.cos.ap-beijing.myqcloud.com/blog/image-20240331194534634.png)
 
 ## 其他
 还有一些其他的高级一点的用法。
